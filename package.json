@@ -1,0 +1,16 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "TodoList-v1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Safarov Safar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
+}
